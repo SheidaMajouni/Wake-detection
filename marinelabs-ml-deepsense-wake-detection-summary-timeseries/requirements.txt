@@ -1,0 +1,3 @@
+boto3
+elasticsearch>=8,<9
+pandas
